@@ -7,6 +7,7 @@ public class App {
         System.out.println("Hello Zainul!");
         System.out.println("Maven Project 2 is working!");
         System.out.println("Jenkins Project 2 is working!");
+        src/main/java/com/example/App.java
 
     }
 }
