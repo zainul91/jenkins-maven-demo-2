@@ -8,6 +8,8 @@ public class App {
         System.out.println("Maven Project 2 is working!");
         System.out.println("Jenkins Project 2 is working!");
         System.out.println("Poll SCM is working!");
+        System.out.println("Poll SCM Test - Old Project");
+
 
     }
 }
